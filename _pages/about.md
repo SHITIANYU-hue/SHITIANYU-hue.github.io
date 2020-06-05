@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/civil/lijun-sun). I received my PhD degree in Civil Engineering (Transportation) from [National University of Singapore](http://www.eng.nus.edu.sg/cee/), and earned a Bachelor degree in Civil Engineering from [Tsinghua University](http://www.civil.tsinghua.edu.cn/en/). During my PhD, I worked at Mobility and Transport Planning module at the [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH center. Prior to joining McGill, I was a Postdoctoral Associate at [MIT Media Lab](https://www.media.mit.edu/). 
+I am an thesis-based master student in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/civil/lijun-sun). I received my bachelor degree in vehicle engineering from [Beijing Institute of Technology](http://english.bit.edu.cn/). During my undergraduate study, I was a visiting student researcher at Berkeley Deep Drive [BDD](https://bdd-data.berkeley.edu/), University of California, Berkeley, supervised by Dr. Ching-Yao Chan[cyc](https://path.berkeley.edu/ching-yao-chan). Prior to joining McGill, I worked as research intern in L4 automated driving group at Momenta.ai[momenta](https://www.momenta.cn/en/), supervised by Dr. Jie Chen[jc](https://scholar.google.com/citations?user=xrnhH-cAAAAJ&hl=en). I also worked as research intern in based model group supervised by Mr. Zichao Guo and Dr. Xiangyu Zhang[xyz](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en).
 
-My current research centers on the area of smart transportation and urban computing, developing innovative methodologies and applications to address efficiency, resilience, and sustainability issues in urban transportation systems. I am particularly interested in integrating advances in machine learning into human mobility modeling, agent-based simulation, and intelligent transportation systems. My previous work has been featured in some popular media outlets, including Wired, Citylab, Scientific American, and MIT Technology Review.
+My current research centers on the area of reinforcement learning and deep neural network, developing innovative methodologies and applications to address safety, efficiency, and resilience issues in multi-agent systems decision and control. 
 
 
 
-For Prospective Students/Postdocs
+<!-- For Prospective Students/Postdocs
 ======
 * I am looking for one motivated Postdoc Associate to start in 2020 Fall in the general area of machine learning for transportation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
 * I am looking for 1-2 PhD students for 2020 Fall and 2021 Winter (Spring) who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
@@ -26,22 +26,22 @@ For Prospective Students/Postdocs
 * Scholarship opportunities:
 * for __PhD__: [McGill MEDA](https://www.mcgill.ca/engineering/students/graduate-students/funding/meda), [CSC](https://www.mcgill.ca/gps/funding/international/csc-chinese-students), [Quebec-China Scholarship](http://www.csc.edu.cn/article/904), [PBEEE Level 1 Graduate](https://www.mcgill.ca/gps/funding/fac-staff/awards/pbeee), [Quebec DFW (免高奖)](http://www.csc.edu.cn/chuguo/s/1250), [IVADO](https://ivado.ca/en/excellence-scholarships/), [McGill MEITA](https://www.mcgill.ca/engineering/students/graduate/funding/meita), [广州菁英计划](http://www.gzscse.gov.cn/gep/);
 * for __Postdoc__: [Miatcs Elevate](http://www.mitacs.ca/en/programs/elevate), [NSERC Banting (best in Canada)](http://banting.fellowships-bourses.gc.ca/en/home-accueil.html), [NSERC Postdoctoral Fellowship](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/PDF-BP_eng.asp), [PBEEE Level 2 Postdoc](https://www.mcgill.ca/gps/funding/international/pbeee), [IVADO](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/), [CSC](http://www.csc.edu.cn/chuguo/s/1046); 
-* for __Undergraduate__: [Mitacs Globalink/international](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), [NSERC USRA](https://www.mcgill.ca/science/research/ours/nserc), [McGill SURE](https://www.mcgill.ca/engineering/students/undergraduate/research).
+* for __Undergraduate__: [Mitacs Globalink/international](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), [NSERC USRA](https://www.mcgill.ca/science/research/ours/nserc), [McGill SURE](https://www.mcgill.ca/engineering/students/undergraduate/research). -->
 
 
 Research Interests
 ======
-* Urban computing & smart cities
-* Machine learning for mobility modeling
+<!-- * Urban computing & smart cities -->
+* Deep reinforcement learning
 * Intelligent transportation systems
 * Spatio-temporal traffic state modeling/predication
-* Infrastructure resilience
+<!-- * Infrastructure resilience -->
 * Data-driven urban/transportation systems modeling
-* Human mobility and travel behavior
-* Agent-based modeling and simulation
-* Public transportation operation & planning
+<!-- * Human mobility and travel behavior -->
+<!-- * Agent-based modeling and simulation -->
+<!-- * Public transportation operation & planning -->
 
-
+<!-- 
 Selected Publications
 ======
 * Chen, X., Sun L., 2019 [Bayesian temporal factorization for multidimensional time series prediction](https://arxiv.org/abs/1910.06366) arXiv preprint arXiv:1910.06366.
@@ -50,4 +50,4 @@ Selected Publications
 * Sun, L., Lu, Y., Jin, J.G., Lee, D.-H., Axhausen, K.W., 2015. [An integrated Bayesian approach for passenger flow assignment in metro networks](http://dx.doi.org/10.1016/j.trc.2015.01.001). Transportation Research Part C: Emerging Technologies 52, 116–131.
 * Sun, L., Erath, A., 2015. [A Bayesian network approach for population synthesis](http://dx.doi.org/10.1016/j.trc.2015.10.010). Transportation Research Part C: Emerging Technologies 61, 49–62.
 * Sun, L., Jin, J.G., Lee, D.-H., Axhausen, K.W., Erath, A., 2014. [Demand-driven timetable design for metro services](http://dx.doi.org/10.1016/j.trc.2014.06.003). Transportation Research Part C: Emerging Technologies 46, 284–299. 
-* Sun, L., Axhausen, K.W., Lee, D.-H., Huang, X., 2013. [Understanding metropolitan patterns of daily encounters](http://dx.doi.org/10.1073/pnas.1306440110). Proceedings of the National Academy of Sciences of the United States of America 110, 13774–9.
+* Sun, L., Axhausen, K.W., Lee, D.-H., Huang, X., 2013. [Understanding metropolitan patterns of daily encounters](http://dx.doi.org/10.1073/pnas.1306440110). Proceedings of the National Academy of Sciences of the United States of America 110, 13774–9. -->
