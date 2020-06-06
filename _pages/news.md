@@ -5,9 +5,6 @@ author_profile: true
 ---
 
 
-
-* 2/2020: Our group has one postdoc position available. The position involves research in two machine learning-related projects on (1) spatiotemporal modeling of urban mobility/traffic data and (2) reinforcement learning environment for traffic signal control. Candidates should be able to work independently, and are also expected to collaborate with researchers working on artificial intelligence in Montreal. 
-
 * 6/2020: I was selected to attend [DLRL Summer School 2020](https://dlrlsummerschool.ca/), hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/).
 
 * 6/2020: I was selected to attend [DeeCamp AI Training Summer School](https://deecamp.com/#/home)
