@@ -21,6 +21,6 @@ author_profile: true
 
 * 11/2019: I received the Graduate [Excellence Fellowship Awards](https://www.mcgill.ca/engineering/students/graduate-students/funding/gef.) by McGill University.
 
-* 06/2019: I succefully defend my undergraduate thesis: "Research on Autonomous Lane Change and Overtaking Based on Multi-agent Learning".
+* 06/2019: I successfully defended my undergraduate thesis: "Research on Autonomous Lane Change and Overtaking Based on Multi-agent Learning".
 
 * 01/2019: I received [Scientific Innovation Award](http://www.bit.edu.cn/tzgg17/wthd132/164782.htm) by Ministry of Industry and Information Technology, China.
