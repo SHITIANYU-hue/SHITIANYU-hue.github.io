@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
+You can also find more about my research on [Google Scholar](https://scholar.google.ca/citations?user=DC0t9zwAAAAJ&hl=en) profile and [ResearchGate](https://www.researchgate.net/profile/Tianyu_Shi3) profile.
 
 Journal Publications
 ======
