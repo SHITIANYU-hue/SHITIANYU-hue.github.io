@@ -11,7 +11,7 @@ main:
     url: /people/
     
   - title: "Honors|Courses"
-    url: /hc/
+    url: /honors/
  
   - title: "Teaching"
     url: /teaching/    
