@@ -1,6 +1,6 @@
 ---
 title: "Honors|Courses"
-permalink: /Honors|Courses/
+permalink: /honors/
 author_profile: true
 ---
 
