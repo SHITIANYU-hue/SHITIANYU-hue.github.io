@@ -1,6 +1,6 @@
 ---
-title: "People"
-permalink: /people/
+title: "Honors|Courses"
+permalink: /honors/
 author_profile: true
 ---
 
