@@ -7,8 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "People"
-    url: /people/
+ - title: "Projects"
+    url: /Projects/
+
+  - title: "Honors|Courses"
+    url: /Honors|Courses/
  
   - title: "Teaching"
     url: /teaching/    
