@@ -1,5 +1,5 @@
 ---
-title: "Honors|Courses"
+title: "honors"
 permalink: /honors/
 author_profile: true
 ---
