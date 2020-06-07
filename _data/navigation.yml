@@ -10,8 +10,8 @@ main:
  - title: "Projects"
     url: /projects/
 
-  - title: "Honors|Courses"
-    url: /Honors|Courses/
+  - title: "Honors"
+    url: /honors/
  
   - title: "Teaching"
     url: /teaching/    
