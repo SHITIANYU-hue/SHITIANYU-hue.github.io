@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 
-Current students @ McGill University.
 
 ## Honors
 * 
