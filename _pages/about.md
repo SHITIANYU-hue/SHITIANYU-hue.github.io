@@ -41,6 +41,11 @@ Research Interests
 <!-- * Agent-based modeling and simulation -->
 <!-- * Public transportation operation & planning -->
 
+
+
+
+
+**I am estimated to graduate in 2021, and I am actively looking for PhD position in 2021 fall or 2022 spring or 2022 fall, please contact me at: tianyu.shi3@mail.mcgill.ca if you are interested in my research!**
 <!-- 
 Selected Publications
 ======
