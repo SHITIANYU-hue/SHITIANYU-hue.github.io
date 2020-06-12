@@ -46,13 +46,4 @@ Research Interests
 
 
 **I am estimated to graduate in 2021, and I am actively looking for PhD position in 2021 fall or 2022 spring or 2022 fall, please contact me at: tianyu.shi3@mail.mcgill.ca if you are interested in my research!**
-<!-- 
-Selected Publications
-======
-* Chen, X., Sun L., 2019 [Bayesian temporal factorization for multidimensional time series prediction](https://arxiv.org/abs/1910.06366) arXiv preprint arXiv:1910.06366.
-* Sun, L., Yin, Y., 2017. [Discovering themes and trends in transportation research using topic modeling](http://dx.doi.org/10.1016/j.trc.2017.01.013). Transportation Research Part C: Emerging Technologies 77, 49–66.
-* Sun, L., Axhausen, K.W., 2016. [Understanding urban mobility patterns with a probabilistic tensor factorization framework](http://dx.doi.org/10.1016/j.trb.2016.06.011). Transportation Research Part B: Methodological 91, 511–524.
-* Sun, L., Lu, Y., Jin, J.G., Lee, D.-H., Axhausen, K.W., 2015. [An integrated Bayesian approach for passenger flow assignment in metro networks](http://dx.doi.org/10.1016/j.trc.2015.01.001). Transportation Research Part C: Emerging Technologies 52, 116–131.
-* Sun, L., Erath, A., 2015. [A Bayesian network approach for population synthesis](http://dx.doi.org/10.1016/j.trc.2015.10.010). Transportation Research Part C: Emerging Technologies 61, 49–62.
-* Sun, L., Jin, J.G., Lee, D.-H., Axhausen, K.W., Erath, A., 2014. [Demand-driven timetable design for metro services](http://dx.doi.org/10.1016/j.trc.2014.06.003). Transportation Research Part C: Emerging Technologies 46, 284–299. 
-* Sun, L., Axhausen, K.W., Lee, D.-H., Huang, X., 2013. [Understanding metropolitan patterns of daily encounters](http://dx.doi.org/10.1073/pnas.1306440110). Proceedings of the National Academy of Sciences of the United States of America 110, 13774–9. -->
+
