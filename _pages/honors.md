@@ -7,6 +7,13 @@ author_profile: true
 
 
 ## Honors
+
+**During my graduate study at McGill Univeristy**
+
+* [IVADO excellence scholarship program for Msc](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-msc/), 04.2020
+* [Graduate Excellence Fellowship Awards](https://www.mcgill.ca/engineering/students/graduate-students/funding/gef]), 11.2019
+
+
 **During my undergraduate study at Beijing Institute of Technology**
 * **MIIT Scholarship for Scientific Innovation** (only one undergraduate winner in our department), 01.2019
 * **First Prize of the CASC Scholarship** (only one winner in our major), 10.2018
