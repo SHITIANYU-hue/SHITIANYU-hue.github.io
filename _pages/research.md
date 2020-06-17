@@ -23,5 +23,5 @@ author_profile: true
 *  Conduct extensiveexperiments in different difficult levels of transportationnetworks against different baselines to demonstrate the ef-fectiveness of the proposed approach..
 
 
-![](https://github.com/SHITIANYU-hue/SHITIANYU-hue2.github.io/blob/master/files/CAVG.png) 
+![](https://mcgill-my.sharepoint.com/:i:/r/personal/tianyu_shi3_mail_mcgill_ca/Documents/code/SHITIANYU-hue.github.io/files/cavg.jpg?csf=1&web=1) 
 
