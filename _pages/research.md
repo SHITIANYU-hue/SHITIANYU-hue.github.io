@@ -24,7 +24,7 @@ author_profile: true
 *  The feasibility and effectiveness of our proposed model has been demonstrated on real-world data collected in Singapore.
 *  Paper presented in TRB 2020.
 
-![](http://zhuangdingyi.github.io/files/pseudo_3d.png) 
+![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/CAVG.png) 
 
 
 ## [Understanding semantic similarity among subway stations using smart card data](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) 
