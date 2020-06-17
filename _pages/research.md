@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-* Research Topic A
 
 ## A Spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow Prediction 
 *National University of Singapore, Apr. 2019~ Aug. 2019*  
