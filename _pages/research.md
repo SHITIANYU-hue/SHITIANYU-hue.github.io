@@ -16,7 +16,7 @@ author_profile: true
 ![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png) 
 
 ## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
-[[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [[paper]] [[code]]
+[[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [paper] [code]
 
 *McGill University, Jan. 2020~ present*  
 *Advisors*: [Prof. Lijun Sun](https://lijunsun.github.io/) 
