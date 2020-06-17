@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](http://smart.lab.mcgill.ca/sunlijun_cv.pdf)
+* [CV in PDF](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/Tianyu_Shi_s_Resume.pdf)
 
 Education
 ======
