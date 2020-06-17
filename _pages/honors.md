@@ -28,8 +28,12 @@ author_profile: true
 
 ### Machine learning
 
-* [x] 支持 @提到某人、标题、引用、[链接]()、**强调** 和 <del>标签</del> 等语法
-* [x] 需要使用列表语法来激活（无序或有序列表均可）
-* [x] 这是一个已完成项目
-* [ ] 这是一个未完成项目
+* [x] [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/account/accomplishments/certificate/HVJSDKFKHXBS)
+
+* [x] [IBM AI Engineering Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HD3RBUFCD6GK
+）
+* [x] [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/RG26J9LFJ8KY)
+
+
+
 
