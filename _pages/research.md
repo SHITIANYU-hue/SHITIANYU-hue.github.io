@@ -15,14 +15,15 @@ author_profile: true
 
 ![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png) 
 
-## A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit 
-*National University of Singapore, Apr. 2019~ Aug. 2019*  
-*Advisors*: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) and [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)  
-*Co-worker*: Dr. Siyu Hao and De Zhao  
-*  Proposed a Pseudo-3D Convolutional Neural Network (Pseudo-3DCNN) based model to predict the public transport passenger flow in a network-wide region level.
-*  Took metro passenger flow, bus passenger flow as well as the transfer flow between metro system and bus system together into consideration instead of merely predicting a single type of passenger flow.
-*  The feasibility and effectiveness of our proposed model has been demonstrated on real-world data collected in Singapore.
-*  Paper presented in TRB 2020.
+## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
+[[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [[paper]] [[code]]
+
+*McGill University, Jan. 2020~ present*  
+*Advisors*: [Prof. Lijun Sun](https://lijunsun.github.io/) 
+*  Utilize the graphattention networks in the navigation setting of multi-agentreinforcement learning for mixed-autonomy cooperation.
+*  Introduce Dynamic relational in-dex based on both velocity and position information to capture attention features among surrounding agents.
+*  Conduct extensiveexperiments in different difficult levels of transportationnetworks against different baselines to demonstrate the ef-fectiveness of the proposed approach..
+
 
 ![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/CAVG.png) 
 
