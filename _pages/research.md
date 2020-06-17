@@ -12,7 +12,7 @@ author_profile: true
 *Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
 * Proposed a new methodology which combine Principal Component Analysis (PCA) and Time DelayNeural Network to evaluate automated vehicle control performance and model the behavior of low levelcontroller.
 * Designed an optimized feed-forward compensator based on deep neural network and achieved improvedperformance in U-turn scenario. 
-<center> <img src="https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/dogs_1280p_0.jpg?itok=6jQzdNB8" style="zoom:30%" /> </center>
+<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png" style="zoom:30%" /> </center>
 
 ## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
 [[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [paper] [code]
