@@ -26,24 +26,3 @@ author_profile: true
 
 ![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/CAVG.png) 
 
-
-## [Understanding semantic similarity among subway stations using smart card data](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) 
-*National University of Singapore, July. 2018~ Sept. 2018*  
-*Advisors*: [Prof. Lee Der-Horng](https://www.eng.nus.edu.sg/cee/staff/lee-der-horng/) and [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)  
-*Co-worker*: Dr. Siyu Hao  
-  * Proposed a new conception to understand metropolitan mobility as words  
-  * Independently selected mobility features then trained stacked autoencoder network to discover mobility semantics  
-  * Applied topic modeling (TF-IDF+SVD+LDA) on scraped POI data to find service semantics 
-  * Paper published in *Transportation Research Part C: Emerging Technology*[doi](https://doi.org/10.1016/j.trc.2020.02.017) 
-
-![](http://zhuangdingyi.github.io/files/stns.gif) 
-
-## [Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)  
-*Shanghai Jiao Tong University, Mar. 2017~ June. 2018*  
-*Advisor*: [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)  
-  * Proposed methods to scrape data from bike-sharing application  
-  * Applied graphic clustering to mine the insight of bike-sharing data  
-  * Suggested a method to explore cycle lane network then presented advice for urban planning  
-  * Paper accepted published in *International Journal of Sustainable Transportation* [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209) .
-
-![](http://zhuangdingyi.github.io/files/geographic_barrier_titled.png) 
