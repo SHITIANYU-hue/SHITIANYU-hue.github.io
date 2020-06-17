@@ -6,12 +6,14 @@ author_profile: true
 
 
 ## Optimizing Control Performance based on Deep Neural Network 
+[[video](https://www.youtube.com/watch?v=YOHQaaQjuyI)] [[paper](https://arxiv.org/pdf/1901.11212.pdf)] [[code](https://github.com/SHITIANYU-hue/Data-driven-control)]
+
 *University of California Berkeley, June. 2018~ September. 2018*  
 *Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
 * Proposed an end-to-end deep learning framework (spatial-temporal block) that aims at making multi-step collective prediction for different types of bus passenger flow (boarding and alighting) in a network-wide region level.
 * Captured simultaneously both long-range spatial dependencies and the correlations with channel dimension and predicted the boarding demand and alighting demand at each region in the near future.
 
-![](http://zhuangdingyi.github.io/files/st_block.png) 
+![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png) 
 
 ## A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit 
 *National University of Singapore, Apr. 2019~ Aug. 2019*  
