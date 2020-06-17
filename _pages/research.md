@@ -13,6 +13,9 @@ author_profile: true
 * Proposed a new methodology which combine Principal Component Analysis (PCA) and Time DelayNeural Network to evaluate automated vehicle control performance and model the behavior of low levelcontroller.
 * Designed an optimized feed-forward compensator based on deep neural network and achieved improvedperformance in U-turn scenario. 
 
+![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png) 
+
+
 ## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
 [[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [paper] [code]
 
@@ -22,6 +25,5 @@ author_profile: true
 *  Introduce Dynamic relational in-dex based on both velocity and position information to capture attention features among surrounding agents.
 *  Conduct extensiveexperiments in different difficult levels of transportationnetworks against different baselines to demonstrate the ef-fectiveness of the proposed approach..
 
-
-![](https://mcgill-my.sharepoint.com/:i:/r/personal/tianyu_shi3_mail_mcgill_ca/Documents/code/SHITIANYU-hue.github.io/files/cavg.jpg?csf=1&web=1) 
+![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/cavg.jpg) 
 
