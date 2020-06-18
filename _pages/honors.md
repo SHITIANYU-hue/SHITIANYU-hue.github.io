@@ -28,14 +28,14 @@ author_profile: true
 
 ### Machine learning
 
-* [x] [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/account/accomplishments/certificate/HVJSDKFKHXBS)
-* [x] [IBM AI Engineering Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HD3RBUFCD6GK)
-* [x] [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/RG26J9LFJ8KY)
+[x] [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/account/accomplishments/certificate/HVJSDKFKHXBS)
+[x] [IBM AI Engineering Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HD3RBUFCD6GK)
+[x] [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/RG26J9LFJ8KY)
 
 ### Mathematics
-* [x] [Introduction to Graph Theory](https://www.coursera.org/account/accomplishments/certificate/AJKE24FLSDGX
+[x] [Introduction to Graph Theory](https://www.coursera.org/account/accomplishments/certificate/AJKE24FLSDGX
 )
-* [x] [Mathematical Thinking in Computer Science
+[x] [Mathematical Thinking in Computer Science
 ](https://www.coursera.org/account/accomplishments/certificate/NELTB3R3SHPQ
 )
 
