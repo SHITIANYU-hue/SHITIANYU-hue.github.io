@@ -25,5 +25,5 @@ author_profile: true
 *  Introduce Dynamic relational in-dex based on both velocity and position information to capture attention features among surrounding agents.
 *  Conduct extensiveexperiments in different difficult levels of transportationnetworks against different baselines to demonstrate the ef-fectiveness of the proposed approach..
 
-![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/cavg.jpg) 
+![](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/CAVG.png) 
 
