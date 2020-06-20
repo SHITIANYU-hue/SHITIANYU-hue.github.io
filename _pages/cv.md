@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Vehicle Engineering, [Beijing Institute of Technology](http://me-english.bit.edu.cn/index.htm), 2019
-* Visiting Student researcher, [University of California, Berkeley](https://path.berkeley.edu/home), 2019.07
+* B.Eng. in Vehicle Engineering, [Beijing Institute of Technology](http://me-english.bit.edu.cn/index.htm), 2019.07
+* Visiting Student researcher, [University of California, Berkeley](https://path.berkeley.edu/home), 2018.07
 * M.Eng in Civil Engineering (Transportation), [McGill University](https://www.mcgill.ca/civil/), 2020-present
 
 Work experience
