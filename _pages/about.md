@@ -33,10 +33,9 @@ Research Interests
 ======
 <!-- * Urban computing & smart cities -->
 * Deep reinforcement learning
-* Intelligent transportation systems
-* Spatio-temporal traffic state modeling/predication
+* Intelligent robotics
+* Deep neural network
 <!-- * Infrastructure resilience -->
-* Data-driven urban/transportation systems modeling
 <!-- * Human mobility and travel behavior -->
 <!-- * Agent-based modeling and simulation -->
 <!-- * Public transportation operation & planning -->
