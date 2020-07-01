@@ -28,8 +28,8 @@ Conference Publications
 ======
 * Xi, C. \*, Shi, T. \*, Wu, Y., & Sun, L. Efficient Motion Planning for Automated Lane Change based on Imitation Learning and Mixed-Integer Optimization. 2020 IEEE Intelligent Transportation Systems Conference (ITSC), Rhodes, Greece, 2020.
 
-* Shi, T., Wang, P., Chan, C. Y., & Zou, C. (2019). A Data Driven Method of Optimizing Feedforward Compensator for Autonomous Vehicle. 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019.
+* Shi, T., Wang, P., Chan, C. Y., & Zou, C. (2019). A Data Driven Method of Optimizing Feedforward Compensator for Autonomous Vehicle. 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019.([paper](https://arxiv.org/abs/1901.11212))
 
-* T. Shi, P. Wang, X. Cheng, C. Chan and D. Huang, "Driving Decision and Control for Automated Lane Change Behavior based on Deep Reinforcement Learning," 2019 IEEE Intelligent Transportation Systems Conference (ITSC), Auckland, New Zealand, 2019.
+* T. Shi, P. Wang, X. Cheng, C. Chan and D. Huang, "Driving Decision and Control for Automated Lane Change Behavior based on Deep Reinforcement Learning," 2019 IEEE Intelligent Transportation Systems Conference (ITSC), Auckland, New Zealand, 2019. （[paper](https://ieeexplore.ieee.org/abstract/document/8917392))
 
 * Y. Li, J. Q. Wang, X. Y. Lu, T. Y. Shi, Q. Xu and K. Q. Li, "Pedestrian Trajectory Prediction at Un-Signalized Intersection Using Probabilistic Reasoning and Sequence Learning," 2019 IEEE Intelligent Transportation Systems Conference (ITSC), Auckland, New Zealand, 2019.
