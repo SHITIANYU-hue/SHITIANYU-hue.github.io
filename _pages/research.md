@@ -5,16 +5,6 @@ author_profile: true
 ---
 
 
-## Optimizing Control Performance based on Deep Neural Network 
-[[video](https://www.youtube.com/watch?v=YOHQaaQjuyI)] [[paper](https://arxiv.org/pdf/1901.11212.pdf)] [[code](https://github.com/SHITIANYU-hue/Data-driven-control)]
-
-*University of California Berkeley, June. 2018~ September. 2018*  
-*Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
-* Proposed a new methodology which combine Principal Component Analysis (PCA) and Time Delay Neural Network to evaluate automated vehicle control performance and model the behavior of low level controller.
-* Designed an optimized feed-forward compensator based on deep neural network and achieved improved performance in U-turn scenario. 
-
-<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png?raw=true" style="zoom:20%" /> </center>
-
 
 ## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
 [[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [paper] [code]
@@ -26,3 +16,15 @@ author_profile: true
 *  Conduct extensive experiments in different difficult levels of transportation networks against different baselines to demonstrate the effectiveness of the proposed approach..
 
 <center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/CAVG.png?raw=true" style="zoom:30%" /> </center>
+
+
+## Optimizing Control Performance based on Deep Neural Network 
+[[video](https://www.youtube.com/watch?v=YOHQaaQjuyI)] [[paper](https://arxiv.org/pdf/1901.11212.pdf)] [[code](https://github.com/SHITIANYU-hue/Data-driven-control)]
+
+*University of California Berkeley, June. 2018~ September. 2018*  
+*Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
+* Proposed a new methodology which combine Principal Component Analysis (PCA) and Time Delay Neural Network to evaluate automated vehicle control performance and model the behavior of low level controller.
+* Designed an optimized feed-forward compensator based on deep neural network and achieved improved performance in U-turn scenario. 
+
+<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png?raw=true" style="zoom:20%" /> </center>
+
