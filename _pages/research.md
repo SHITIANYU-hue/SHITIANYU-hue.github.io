@@ -36,4 +36,4 @@ author_profile: true
 * Designed two similar Deep Q learning frameworks with quadratic approximator for deciding how to select a comfortable gap and follow the preceding vehicle. 
 * Proposed a novel hierarchical deep reinforcement learning for decision making and control of lane change situations.
 
-<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/lanechange.png?raw=true" style="zoom:20%" /> </center>
+<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/lanechange.png?raw=true" style="zoom:40%" /> </center>
