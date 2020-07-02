@@ -28,3 +28,12 @@ author_profile: true
 
 <center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png?raw=true" style="zoom:20%" /> </center>
 
+## Research on Decision-making and Control System based Deep Reinforcement Learning
+[video] [[paper](https://ieeexplore.ieee.org/abstract/document/8917392)] [code]
+
+*University of California Berkeley, June. 2018~ September. 2018*  
+*Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
+* Designed two similar Deep Q learning frameworks with quadratic approximator for deciding how to select a comfortable gap and follow the preceding vehicle. 
+* Proposed a novel hierarchical deep reinforcement learning for decision making and control of lane change situations.
+
+<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/lanechange.png?raw=true" style="zoom:20%" /> </center>
