@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
-[[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [paper] [code]
+[[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [[paper]](https://arxiv.org/abs/2007.02794) [code]
 
 *McGill University, Jan. 2020~ present*  
 *Advisors*: [Prof. Lijun Sun](https://lijunsun.github.io/) 
@@ -15,7 +15,7 @@ author_profile: true
 *  Introduce Dynamic relational index based on both velocity and position information to capture attention features among surrounding agents.
 *  Conduct extensive experiments in different difficult levels of transportation networks against different baselines to demonstrate the effectiveness of the proposed approach..
 
-<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/CAVG.png?raw=true" style="zoom:30%" /> </center>
+<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/cavg.jpg?raw=true" style="zoom:30%" /> </center>
 
 
 ## Optimizing Control Performance based on Deep Neural Network 
