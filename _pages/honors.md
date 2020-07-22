@@ -31,6 +31,8 @@ author_profile: true
 * [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/account/accomplishments/certificate/HVJSDKFKHXBS)
 * [IBM AI Engineering Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HD3RBUFCD6GK)
 * [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/RG26J9LFJ8KY)
+* [COMP767 Reinforcement Learning](https://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html) 4.0/4.0
+* [COMP551 Applied Machine Learning](https://www.cs.mcgill.ca/~siamak/COMP551/index.html) 4.0/4.0 
 
 ### Mathematics
 * [Introduction to Graph Theory](https://www.coursera.org/account/accomplishments/certificate/AJKE24FLSDGX
