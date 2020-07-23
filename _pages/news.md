@@ -4,6 +4,10 @@ permalink: /news/
 author_profile: true
 ---
 
+* 7/2020: It's my honor to have a nice talk with Prof. [Laurent Charlin](https://www.hec.ca/en/profs/laurent.charlin.html) and Prof. [Denis Larocque](https://www.hec.ca/en/profs/denis.larocque.html) about "Reinforcement learning for traffic light control", I am delighted to conduct an internship at [Mila](https://mila.quebec/)!
+
+* 7/2020: I gave a spotlight presentation at ICML 2020, our video can be found [here](https://slideslive.com/38931756/multiagent-graph-reinforcement-learning-for-connected-automated-driving).
+
 * 7/2020: One paper was accepted by Workshop on AI for Autonomous Driving, International Conference on Machine Learning (ICML).
 
 * 6/2020: I was selected to attend [DLRL Summer School 2020](https://dlrlsummerschool.ca/), hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/).
