@@ -12,7 +12,7 @@ author_profile: true
 
 * 6/2020: I was selected to attend [DLRL Summer School 2020](https://dlrlsummerschool.ca/), hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/).
 
-* 6/2020: I was selected to attend [DeeCamp AI Training Summer School](https://deecamp.com/#/home)
+* 6/2020: I was selected to attend [DeeCamp AI Training Summer School](https://deecamp.com/#/home).
 
 * 5/2020: One paper was accepted by IEEE ITSC 2020.
 
