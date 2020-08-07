@@ -18,5 +18,6 @@ Education
 
 Work experience
 ======
+* 2020.9- : Reinforcement Learning Research Intern, [Montreal Institute for Learning Algorithms](https://mila.quebec/en/mila/)
 * 2019.9-2019.11: Computer Vision Research Intern, [Megvii Technology](https://megvii.com/en)
 * 2019.1-2019.9: Motion Planning and Control Research Intern, [Momenta.AI](https://www.momenta.cn/en/)
