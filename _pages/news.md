@@ -3,6 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 8/2020: Our team has won the championship in [DeeCamp AI Training Summer School](https://deecamp.com/#/home) autonomous driving competition hosted by Huawei Could. Our project has received the [award](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/images/WechatIMG4.jpeg) from the United Nations
 
 * 7/2020: It's my honor to have a nice talk with Prof. [Laurent Charlin](https://www.hec.ca/en/profs/laurent.charlin.html) and Prof. [Denis Larocque](https://www.hec.ca/en/profs/denis.larocque.html) about "Reinforcement learning for traffic light control", I am delighted to conduct an internship at [Mila](https://mila.quebec/)!
 
