@@ -26,7 +26,7 @@ author_profile: true
 <center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/data-drivenplanning.png" style="zoom:40%" /> </center>
 
 ## Optimizing Control Performance based on Deep Neural Network 
-[[video](https://www.youtube.com/watch?v=YOHQaaQjuyI)] [[paper](https://arxiv.org/pdf/1901.11212.pdf)] [[code](https://github.com/SHITIANYU-hue/Data-driven-control)]
+[[video]](https://www.youtube.com/watch?v=YOHQaaQjuyI) [[paper]](https://arxiv.org/pdf/1901.11212.pdf) [[code]](https://github.com/SHITIANYU-hue/Data-driven-control)
 
 *University of California Berkeley, June. 2018~ September. 2018*  
 *Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
@@ -36,7 +36,7 @@ author_profile: true
 <center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/control.png?raw=true" style="zoom:20%" /> </center>
 
 ## Research on Decision-making and Control System based Deep Reinforcement Learning
-[video] [[paper](https://ieeexplore.ieee.org/abstract/document/8917392)] [code]
+[video] [[paper]](https://ieeexplore.ieee.org/abstract/document/8917392) [code]
 
 *University of California Berkeley, June. 2018~ September. 2018*  
 *Advisors*: [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan) and [Dr. Pin Wang](https://path.berkeley.edu/pin-wang)  
