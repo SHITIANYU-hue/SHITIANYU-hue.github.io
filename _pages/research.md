@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Multi-agent Graph Reinforcement Learning for Connected Automated Driving 
-[[video](https://www.youtube.com/watch?v=rL95dglox2c&t=158s)] [[paper]](https://arxiv.org/abs/2007.02794) [code]
+[[video]](https://www.youtube.com/watch?v=rL95dglox2c&t=158s) [[paper]](https://arxiv.org/abs/2007.02794) [code]
 
 *McGill University, Jan. 2020~ present*  
 *Advisors*: [Prof. Lijun Sun](https://lijunsun.github.io/) 
@@ -18,7 +18,7 @@ author_profile: true
 <center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/cavg.jpg?raw=true" style="zoom:30%" /> </center>
 
 ## Efficient Motion Planning for Automated Lane Change based on Imitation Learning and Mixed-Integer Optimization
-[[video]](https://youtu.be/FQFk3FOT1Vs) [[paper](https://arxiv.org/abs/1904.08784)] [[code]](https://github.com/SHITIANYU-hue/Efficient-motion-planning)
+[[video]](https://youtu.be/FQFk3FOT1Vs) [[paper]](https://arxiv.org/abs/1904.08784) [[code]](https://github.com/SHITIANYU-hue/Efficient-motion-planning)
 
 * Transformed the lane change mission into Mixed Quadratic Problem (MIQP) with logical constraints to guarantee safe and comfortable lane change movements. 
 * Proposed a hierarchical imitation learning with “classification layer” and “action generation layer” to provide online, fast and more generalized motion planning. 
