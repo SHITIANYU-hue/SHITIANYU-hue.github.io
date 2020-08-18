@@ -23,7 +23,7 @@ author_profile: true
 * Transformed the lane change mission into Mixed Quadratic Problem (MIQP) with logical constraints to guarantee safe and comfortable lane change movements. 
 * Proposed a hierarchical imitation learning with “classification layer” and “action generation layer” to provide online, fast and more generalized motion planning. 
 
-<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/data-drivenplanning.png" style="zoom:40%" /> </center>
+<center> <img src="https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/files/data-drivenplanning.png?raw=true" style="zoom:40%" /> </center>
 
 ## Optimizing Control Performance based on Deep Neural Network 
 [[video]](https://www.youtube.com/watch?v=YOHQaaQjuyI) [[paper]](https://arxiv.org/pdf/1901.11212.pdf) [[code]](https://github.com/SHITIANYU-hue/Data-driven-control)
