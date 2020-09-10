@@ -20,12 +20,16 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 
 Journal Publications
 ======
+* Tianyu Shi \*, Jiawei Wang \*, Yuankai Wu, Luis Miranda-Moreno, Lijun Sun. Efficient Connected and Automated Driving System with Multi-agent Graph Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems(under review).
+
 * Ma, Y. \*, Shi, T. \*, Zhang, W. \*, Hao, Y., Huang, J., & Lin, Y. (2019). Comprehensive policy evaluation of NEV development in China, Japan, the United States, and Germany based on the AHP-EW model. Journal of cleaner production, 214, 389-402.  ([Paper](https://www.sciencedirect.com/science/article/pii/S0959652618338277))
 
 
 
 Conference Publications
 ======
+* Tianyu Shi \*, Jiawei Wang \*, Yuankai Wu, Luis Miranda-Moreno, Lijun Sun. Efficient Connected and Automated Driving System with Multi-agent Graph Reinforcement Learning. Workshop on AI for Autonomous Driving, International Conference on Machine Learning (ICML)([paper](https://drive.google.com/file/d/1-45ykHewQ68nvKCZebB37DuSRgJ4HIPN/view?usp=sharing)).
+
 * Xi, C. \*, Shi, T. \*, Wu, Y., & Sun, L. Efficient Motion Planning for Automated Lane Change based on Imitation Learning and Mixed-Integer Optimization. 2020 IEEE Intelligent Transportation Systems Conference (ITSC), Rhodes, Greece, 2020.
 
 * Shi, T., Wang, P., Chan, C. Y., & Zou, C. (2019). A Data Driven Method of Optimizing Feedforward Compensator for Autonomous Vehicle. 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019.([paper](https://arxiv.org/abs/1901.11212))
