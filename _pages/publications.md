@@ -28,7 +28,7 @@ Journal Publications
 
 Conference Publications
 ======
-* Tianyu Shi \*, Jiawei Wang \*, Yuankai Wu, Luis Miranda-Moreno, Lijun Sun. Efficient Connected and Automated Driving System with Multi-agent Graph Reinforcement Learning. Workshop on AI for Autonomous Driving, International Conference on Machine Learning (ICML)([paper](https://drive.google.com/file/d/1-45ykHewQ68nvKCZebB37DuSRgJ4HIPN/view?usp=sharing)).
+* Tianyu Shi \*, Jiawei Wang \*, Yuankai Wu, Luis Miranda-Moreno, Lijun Sun. Efficient Connected and Automated Driving System with Multi-agent Graph Reinforcement Learning. 2020 Workshop on AI for Autonomous Driving, International Conference on Machine Learning (ICML)([paper](https://drive.google.com/file/d/1-45ykHewQ68nvKCZebB37DuSRgJ4HIPN/view?usp=sharing)).
 
 * Xi, C. \*, Shi, T. \*, Wu, Y., & Sun, L. Efficient Motion Planning for Automated Lane Change based on Imitation Learning and Mixed-Integer Optimization. 2020 IEEE Intelligent Transportation Systems Conference (ITSC), Rhodes, Greece, 2020.
 
