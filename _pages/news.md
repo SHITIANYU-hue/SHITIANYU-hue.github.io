@@ -3,6 +3,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+* 10/2020: Our paper:'Efficient Connected and Automated Driving System with Multi-agent graph Reinforcement Learning' is accepted for presentation at the [TRB Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx)
+
 * 8/2020: I was invited to participate the [DiDi-IEEE ELITE FORUM (滴滴-IEEE未来精英论坛)](https://outreach.didichuxing.com/app-outreach/EF).
 
 * 8/2020: Our team has won the championship in [DeeCamp AI Training Summer School](https://deecamp.com/#/home) autonomous driving competition hosted by Huawei Could. Our project has received the [award](https://github.com/SHITIANYU-hue/SHITIANYU-hue.github.io/blob/master/images/WechatIMG4.jpeg) from the United Nations.
@@ -27,7 +30,7 @@ author_profile: true
 
 * 1/2020: I joined [Prof. Lijun Sun's group](https://lijunsun.github.io/people/) as a Master-thesis student.
 
-* 11/2019: I received the Graduate [Excellence Fellowship Awards](https://www.mcgill.ca/engineering/students/graduate-students/funding/gef.) by McGill University.
+* 11/2019: I received the Graduate [Excellence Fellowship Awards](https://www.mcgill.ca/engineering/students/graduate-students/funding/gef) by McGill University.
 
 * 06/2019: I was awarded the designation of Dean's Honour List from Beijing Institute of Technology
 
