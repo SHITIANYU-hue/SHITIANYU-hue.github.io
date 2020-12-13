@@ -42,6 +42,7 @@ author_profile: true
 )
 * [Discrete Optimization](https://coursera.org/share/13cd2b5cacb8394a168a3008cbce97ba
 )
+
 ### Robotics and Control
 * [ECSE 683 Learning and Optimization for Robot Control](https://sites.google.com/site/hsiuchinlin/comp-766?authuser=0)
 * [Control of Mobile Robotics](https://coursera.org/share/b93d14365050976658385832184e72b7)
