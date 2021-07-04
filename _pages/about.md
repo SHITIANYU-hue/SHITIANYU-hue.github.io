@@ -46,5 +46,5 @@ Research Interests
 
 
 
-**I am going to join Toronto University for my PhD study, if you have any questions, please contact me at: tianyu.shi3@mail.mcgill.ca. I am very happy to answer!**
+**I am going to join Toronto University for my PhD study, if you have any questions, please contact me at: tianyu.s@outlook.com. I am very happy to answer!**
 
