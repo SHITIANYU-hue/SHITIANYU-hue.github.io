@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a thesis-based master student at [Prof. Lijun Sun's group](https://www.mcgill.ca/civil/lijun-sun) in Department of Civil Engineering, McGill University. I work closely with [Prof.Hsiu-Chin Lin](https://scholar.google.com/citations?user=ZJo2sPEAAAAJ&hl=en) in computer science department on robotics motion planning. I will join [Mila](https://mila.quebec/en/) in Fall 2020 as a research intern, work with [Prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/). 
+I am a thesis-based master student at [Prof. Lijun Sun's group](https://www.mcgill.ca/civil/lijun-sun) in Department of Civil Engineering, McGill University. I also work with [Prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) at [Mila](https://mila.quebec/en/) as a research intern.
 
 I received my bachelor degree in vehicle engineering from [Beijing Institute of Technology](http://english.bit.edu.cn/). During my undergraduate study, I was a visiting student researcher at [Berkeley Deep Drive, University of California Berkeley](https://bdd-data.berkeley.edu/), supervised by [Dr. Ching-Yao Chan](https://path.berkeley.edu/ching-yao-chan). Prior to joining McGill, I worked as research intern in L4 automated driving group at [Momenta.ai](https://www.momenta.cn/en/), supervised by [Dr. Jie Chen](https://scholar.google.com/citations?user=xrnhH-cAAAAJ&hl=en). I also worked as research intern in based model group at [Megvii Technology](https://megvii.com/en), supervised by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en).
 
@@ -46,5 +46,5 @@ Research Interests
 
 
 
-**I am estimated to graduate in 2021, and I am actively looking for PhD position in 2021 fall or 2022 spring or 2022 fall, please contact me at: tianyu.shi3@mail.mcgill.ca if you are interested in my research!**
+**I am going to join Toronto University for my PhD study, if you have any questions, please contact me at: tianyu.shi3@mail.mcgill.ca. I am very happy to answer!**
 
