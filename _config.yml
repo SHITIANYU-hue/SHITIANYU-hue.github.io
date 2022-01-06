@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Tianyu Shi - Homepage"
 title_separator          : "-"
 name                     : &name "Tianyu Shi"
-description              : &description "M.Eng in Civil Engineering minor in Computer Science "
-description              : &description "Civil Engineering | McGill University"
+description              : &description "PhD student research on autonomous driving "
+description              : &description "Intelligent Transportation Engineering | University of Toronto"
 url                      : https://SHITIANYU-hue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SHITIANYU-hue/SHITIANYU-hue.github.io"
@@ -83,13 +83,12 @@ author:
   name             : "Tianyu Shi"
   avatar           : "shi.jpg"
   bio              : |
-    M.Eng in Civil Engineering minor in Computer Science <br>
-    McGill University <br>
+    PhD student research on autonomous driving <br>
+    University of Toronto <br>
     <br>
-    817 Sherbrooke St. W. <br>
-    Macdonald ENG BLDG <br>
-    Montreal, QC H3A 0C3, Canada <br>
-  location         : "Montreal, Canada"
+    27 King's College Cir,  <br>
+    Toronto, ON M5S 1A1 <br>
+  location         : "Toronto, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=DC0t9zwAAAAJ&hl=en"
   email            : "tianyu.shi3@mail.mcgill.ca"
