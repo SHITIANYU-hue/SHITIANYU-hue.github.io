@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-#   name             : "Tianyu Shi"
+  name             : "Tianyu Shi"
   avatar           : "shi.jpg"
   bio              : |
     PhD student research on autonomous driving <br>
     University of Toronto <br>
     <br>
-   35 St. George Street,  <br>
-    Toronto, Ontario, M5S 1A4, Canada <br>
+    27 King's College Cir,  <br>
+    Toronto, ON M5S 1A1 <br>
   location         : "Toronto, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=DC0t9zwAAAAJ&hl=en"
-  email            : "tianyu.shi3@mail.mcgill.ca"
+  email            : "ty.shi@mail.utoronto.ca"
   uri              :
   bitbucket        :
   codepen          :
