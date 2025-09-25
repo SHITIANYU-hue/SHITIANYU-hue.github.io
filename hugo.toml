@@ -1,0 +1,32 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Tianyu Shi'
+theme = 'academic-simple'
+
+[params]
+  author = "Tianyu Shi"
+  description = "Ph.D. Candidate | University of Toronto"
+  email = "ty.shi@mail.utoronto.ca"
+  website = "https://shitianyu-hue.github.io/"
+  
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 5

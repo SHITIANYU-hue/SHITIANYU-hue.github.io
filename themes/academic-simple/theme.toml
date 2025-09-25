@@ -1,0 +1,12 @@
+name = "Academic Simple"
+license = "MIT"
+licenselink = ""
+description = "简洁的学术网站主题"
+homepage = ""
+tags = ["academic", "personal", "portfolio"]
+features = ["responsive", "clean"]
+min_version = "0.41.0"
+
+[author]
+  name = "Your Name"
+  homepage = ""
