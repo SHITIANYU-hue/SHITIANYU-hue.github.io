@@ -45,6 +45,48 @@
             I collaborate globally with academia and industry to advance trustworthy and scalable AI. 
             If you are interested in collaboration with me, feel free to send my email below. 
         </p>
+
+        <!-- Button to open the form modal -->
+        <button id="openFormBtn" style="padding:10px 20px; background:#0056D2; color:white; border:none; border-radius:6px; cursor:pointer;">
+            Apply to Collaborate
+        </button>
+
+        <!-- Modal background -->
+        <div id="formModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); z-index:1000;">
+            <!-- Modal content -->
+            <div style="background:white; width:80%; max-width:900px; margin:5% auto; padding:20px; border-radius:10px; position:relative;">
+                <!-- Close button -->
+                <span id="closeFormBtn" style="position:absolute; top:10px; right:20px; font-size:28px; cursor:pointer;">&times;</span>
+                
+                <h2 style="margin-top:0;">Research Mentorship & Collaboration Application</h2>
+                
+                <iframe src="https://docs.google.com/forms/d/1vWMLVT3smrVxL6d12h3vofr-iRgOCcoxOEu1uxGNB50/viewform?embedded=true"
+                        width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">
+                    Loading…
+                </iframe>
+            </div>
+        </div>
+
+        <script>
+            const modal = document.getElementById("formModal");
+            const openBtn = document.getElementById("openFormBtn");
+            const closeBtn = document.getElementById("closeFormBtn");
+
+            openBtn.onclick = function() {
+                modal.style.display = "block";
+            }
+
+            closeBtn.onclick = function() {
+                modal.style.display = "none";
+            }
+
+            window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+            }
+        </script>
+
         <div class="contact-info">
             <a href="mailto:ty.shi@mail.utoronto.ca">Email: tys at cs.toronto.edu</a>
             <a href="https://shitianyu-hue.github.io/" target="_blank">Website: https://tianyushi.org/</a>
