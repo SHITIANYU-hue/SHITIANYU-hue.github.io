@@ -370,3 +370,64 @@ footer p {
         margin-bottom: 20px;
     }
 }
+/* =========================
+   Research Page Typography Patch
+   ========================= */
+
+.single-page .content {
+  max-width: 920px;
+  margin: 0 auto;
+  line-height: 1.65;
+  font-size: 16px;
+}
+
+.single-page .content h2 {
+  margin-top: 28px;
+  margin-bottom: 12px;
+  font-size: 22px;
+}
+
+.single-page .content h3 {
+  margin-top: 18px;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.single-page .content p {
+  margin: 10px 0;
+}
+
+.single-page .content hr {
+  margin: 22px 0;
+  border: none;
+  border-top: 1px solid #e6e6e6;
+}
+
+.single-page .content ul {
+  margin: 10px 0 14px 18px;
+}
+
+.single-page .content li {
+  margin: 6px 0;
+}
+
+/* Figure */
+.research-figure {
+  margin: 18px auto 12px auto;
+  max-width: 980px;
+  text-align: center;
+}
+
+.research-figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.research-figure figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #666;
+}
