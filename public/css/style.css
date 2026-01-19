@@ -370,55 +370,70 @@ footer p {
         margin-bottom: 20px;
     }
 }
+
+
 /* =========================
-   Research Page Typography Patch
+   Research page: keep typography consistent with the site
    ========================= */
 
 .single-page .content {
-  max-width: 920px;
-  margin: 0 auto;
+  /* inherit global typography (same as other pages) */
+  font-family: inherit;
+  font-size: 1rem;           /* same scale as body */
   line-height: 1.65;
-  font-size: 16px;
+  color: inherit;
+
+  /* keep your site's layout rhythm; don't force a new width if you already have one */
+  max-width: 980px;
+  margin: 0 auto;
 }
 
+/* Title hierarchy closer to your original pages */
 .single-page .content h2 {
-  margin-top: 28px;
-  margin-bottom: 12px;
-  font-size: 22px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  margin: 1.6rem 0 0.6rem;
 }
 
 .single-page .content h3 {
-  margin-top: 18px;
-  margin-bottom: 8px;
-  font-size: 18px;
+  font-family: inherit;
+  font-weight: 650;
+  font-size: 1.1rem;
+  line-height: 1.35;
+  margin: 1.1rem 0 0.4rem;
 }
 
+/* Paragraph spacing: web-like, not "document-like" */
 .single-page .content p {
-  margin: 10px 0;
+  margin: 0.55rem 0;
 }
 
+/* Divider matches a clean website style */
 .single-page .content hr {
-  margin: 22px 0;
   border: none;
-  border-top: 1px solid #e6e6e6;
+  border-top: 1px solid rgba(0,0,0,0.12);
+  margin: 1.4rem 0;
 }
 
+/* Lists: compact and aligned */
 .single-page .content ul {
-  margin: 10px 0 14px 18px;
+  margin: 0.55rem 0 0.9rem 1.15rem;
+  padding: 0;
 }
 
 .single-page .content li {
-  margin: 6px 0;
+  margin: 0.35rem 0;
 }
 
-/* Figure */
-.research-figure {
-  margin: 18px auto 12px auto;
-  max-width: 980px;
+/* Figure: make it look like an intentional section element */
+.single-page .content figure.research-figure {
+  margin: 1rem 0 0.75rem;
   text-align: center;
 }
 
-.research-figure img {
+.single-page .content figure.research-figure img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
@@ -426,8 +441,9 @@ footer p {
   border-radius: 10px;
 }
 
-.research-figure figcaption {
-  margin-top: 8px;
-  font-size: 14px;
-  color: #666;
+.single-page .content figure.research-figure figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  opacity: 0.85;
 }
